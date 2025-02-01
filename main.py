@@ -51,3 +51,21 @@ sed do eiusmod tempor incididunt
 ut labore et dolore magna aliqua.
 """
 print(a)
+
+
+# String Length
+print(len(a))
+
+print("Lorem" in a)
+print("lorem" not in a)
+
+
+# Slicing
+# return a range of character
+print(a[0:9])
+
+# Upper Case
+print(a.upper())
+print(a.lower())
+
+F-Strings
