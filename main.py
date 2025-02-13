@@ -69,3 +69,6 @@ print(a.upper())
 print(a.lower())
 
 F-Strings
+name = "Velocibyte"
+age = 27
+print(f"My name is {name} and I am {age} years old.")
